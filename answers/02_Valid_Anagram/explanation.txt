@@ -1,0 +1,4 @@
+Since the constraints say all the characters are lowercase, we dont need a Map. 
+Using a HashMap is more heavier than using an array.
+
+we can simply substract the letters to get the indexes.
